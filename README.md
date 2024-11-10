@@ -1,7 +1,6 @@
 # 👋 Hi, I'm @AngelEsteva
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast, 
-constantly learning and exploring fields like data science, cybersecurity, and software development. 
+Welcome to my GitHub profile! I'm a passionate tech enthusiast, constantly learning and exploring fields like data science, cybersecurity, and software development. 
 
 ## 👀 Interests
 - **Python Programming**: I love building and automating tasks with Python.
@@ -11,7 +10,7 @@ constantly learning and exploring fields like data science, cybersecurity, and s
 
 ## 🌱 Currently Learning
 - Python 
-- Data Science tools and libraries (Pandas, NumPy, Scikit-Learn, etc.)
+- Data Science tools and libraries (Pandas, NumPy, etc.)
 - Cybersecurity fundamentals and ethical hacking techniques
 - SQL for data analysis and backend development
 
