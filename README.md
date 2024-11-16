@@ -1,19 +1,18 @@
-# 👋 Hi, I'm @AngelEsteva
+#  👋 Hi, I'm @AngelEsteva
 
-Welcome to my GitHub profile! I'm a passionate tech enthusiast, constantly learning and exploring fields like data science, cybersecurity, and software development. 
+Welcome to my GitHub profile! I'm a passionate software developer with a strong focus on backend technologies and web development. Constantly striving to learn and improve, I enjoy building efficient and scalable applications.
+👀 Interests
 
-## 👀 Interests
-- **Python Programming**: I love building and automating tasks with Python.
-- **Data Science**: Currently diving deep into data analysis, machine learning, and visualization.
-- **Cybersecurity**: Interested in ethical hacking, threat analysis, and security measures to protect data.
-- **Web Development**: Expanding my skills to create dynamic and user-friendly applications.
+ -   Java Development: Crafting robust and maintainable code with Java.
+ -   Spring Boot: Developing modern web applications and REST APIs using Spring Boot.
+ -   Web Development: Creating dynamic, responsive, and user-friendly web applications.
+ -   SQL: Designing and optimizing relational databases for seamless backend integration.
 
-## 🌱 Currently Learning
-- Python 
-- Data Science tools and libraries (Pandas, NumPy, etc.)
-- Cybersecurity fundamentals and ethical hacking techniques
-- SQL for data analysis and backend development
+##  🌱 Currently Learning
 
+ -   Building microservices for scalable and distributed systems.
+ -   Software testing to ensure reliability and quality in development.
+ 
 ## 📫 How to Reach Me
 - **Email**: luis.lopez.esteva@gmail.com
 <!---
